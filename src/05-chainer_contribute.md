@@ -38,7 +38,7 @@
 //blankline
 
 この章は、MNIST以外で公開されているデータセットと学習プログラムで  
-ChainerMN[^11] を使って学習したい。という気持ちから作成した学習プログラムをChainerにプルリクした体験談です。
+ChainerMN[^11] を使って学習したい。という気持ちから作成した学習プログラムをChainerにプルリクした体験談です。  
 [^11]: https://github.com/chainer/chainermn
  
 
@@ -101,7 +101,8 @@ Githubでは、全て英語でやり取りをしなければならないです�
 
 ## Contributerデビュー
 
-エラーがなくなり、コミットが"〇"になったらレビュワーがchainer-ciにtestを要求し、successedが返ってきたらコントリビュートまで秒読みです。
+エラーがなくなり、コミットが"〇"になったらレビュワーがchainer-ciにtestを要求し、successedが返ってきたらコントリビュートまで秒読みです。  
+
 //noindent
 
 ![コミットがtest成功](./images/contribute_03.JPG)
@@ -132,7 +133,7 @@ Githubでは、全て英語でやり取りをしなければならないです�
 
 プルリクを提出してから、実際にMargeされるまで約1ヵ月半かかりました。  
 ※レビュワーとやり取りを開始してからは半月ぐらいでした。    
-ChainerMNで画像分類を試してみたい時、よかったら使ってみてくださると嬉しいです。[^13] 
+ChainerMNで画像分類を試してみたい時、よかったら使ってみてくださると嬉しいです。[^13]   
 [^13]: https://github.com/chainer/chainer/tree/master/examples/chainermn/cifar
 
 //blankline
